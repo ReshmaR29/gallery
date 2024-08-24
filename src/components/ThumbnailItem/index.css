@@ -1,0 +1,12 @@
+/* Write your code here. */
+.thumbnailImg {
+  width: 100px;
+  height: 100px;
+  margin-right: 5px;
+}
+.hiddenImage {
+  opacity: 0.5;
+}
+.clearImage {
+  opacity: 1;
+}
